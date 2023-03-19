@@ -17,7 +17,7 @@ int main()
     ll T;
     cin>>T;
     while(T--){
-        
+        cout<<"hi";
     }
     return 0;
 }
